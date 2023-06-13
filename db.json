@@ -1,0 +1,206 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "White",
+      "slug": "white"
+    },
+    {
+      "id": 1,
+      "name": "Black",
+      "slug": "black"
+    },
+    {
+      "id": 2,
+      "name": "Red",
+      "slug": "red"
+    },
+    {
+      "id": 3,
+      "name": "Blue",
+      "slug": "blue"
+    },
+    {
+      "id": 4,
+      "name": "Yellow",
+      "slug": "yellow"
+    },
+    {
+      "id": 5,
+      "name": "Mixed color",
+      "slug": "mixed-color"
+    }
+  ],
+  "products": [
+    {
+      "name": "RandomName1",
+      "categoryId": 0,
+      "image": "src/images/image-product-2-",
+      "price": 125,
+      "inStock": true,
+      "id": 1,
+      "category": "white"
+    },
+    {
+      "name": "RandomName2",
+      "categoryId": 5,
+      "image": "src/images/image-product-1-",
+      "price": 120,
+      "inStock": false,
+      "id": 5,
+      "category": "mixed-color"
+    },
+    {
+      "name": "RandomName3",
+      "categoryId": 0,
+      "image": "src/images/image-product-2-",
+      "price": 250,
+      "inStock": true,
+      "id": 6,
+      "category": "white"
+    },
+    {
+      "name": "RandomName4",
+      "categoryId": 5,
+      "image": "src/images/image-product-1-",
+      "price": 200,
+      "inStock": true,
+      "id": 7,
+      "category": "mixed-color"
+    },
+    {
+      "name": "RandomName5",
+      "categoryId": 4,
+      "image": "src/images/image-product-7-",
+      "price": 50,
+      "inStock": false,
+      "id": 8,
+      "category": "red"
+    },
+    {
+      "name": "RandomName6",
+      "categoryId": 1,
+      "image": "src/images/image-product-8-",
+      "price": 25,
+      "inStock": false,
+      "id": 9,
+      "category": "blue"
+    },
+    {
+      "name": "RandomName7",
+      "categoryId": 3,
+      "image": "src/images/image-product-1-",
+      "price": 75,
+      "inStock": true,
+      "id": 10,
+      "category": "mixed-color"
+    },
+    {
+      "name": "RandomName8",
+      "categoryId": 1,
+      "image": "src/images/image-product-6-",
+      "price": 220,
+      "inStock": true,
+      "id": 11,
+      "category": "yellow"
+    },
+    {
+      "name": "RandomName9",
+      "categoryId": 0,
+      "image": "src/images/image-product-1-",
+      "price": 200,
+      "inStock": true,
+      "id": 12,
+      "category": "mixed-color"
+    },
+    {
+      "name": "RandomName10",
+      "categoryId": 2,
+      "image": "src/images/image-product-2-",
+      "price": 300,
+      "inStock": false,
+      "id": 13,
+      "category": "white"
+    },
+    {
+      "name": "RandomName11",
+      "categoryId": 5,
+      "image": "src/images/image-product-8-",
+      "price": 325,
+      "inStock": false,
+      "id": 14,
+      "category": "blue"
+    },
+    {
+      "name": "RandomName12",
+      "categoryId": 4,
+      "image": "src/images/image-product-1-",
+      "price": 1000,
+      "inStock": true,
+      "id": 15,
+      "category": "mixed-color"
+    },
+    {
+      "name": "RandomName13",
+      "categoryId": 5,
+      "image": "src/images/image-product-7-",
+      "price": 80,
+      "inStock": true,
+      "id": 16,
+      "category": "red"
+    },
+    {
+      "name": "RandomName14",
+      "categoryId": 2,
+      "image": "src/images/image-product-1-",
+      "price": 200,
+      "inStock": true,
+      "id": 17,
+      "category": "mixed-color"
+    },
+    {
+      "name": "RandomName15",
+      "categoryId": 3,
+      "image": "src/images/image-product-4-",
+      "price": 160,
+      "inStock": false,
+      "id": 19,
+      "category": "black"
+    },
+    {
+      "name": "RandomName16",
+      "categoryId": 3,
+      "image": "src/images/image-product-1-",
+      "price": 100,
+      "inStock": true,
+      "id": 20,
+      "category": "mixed-color"
+    },
+    {
+      "name": "RandomName17",
+      "categoryId": 1,
+      "image": "src/images/image-product-4-",
+      "price": 800,
+      "inStock": true,
+      "id": 21,
+      "category": "black"
+    },
+    {
+      "name": "RandomName18",
+      "categoryId": 1,
+      "image": "src/images/image-product-2-",
+      "price": 40,
+      "inStock": true,
+      "id": 22,
+      "category": "white"
+    },
+    {
+      "name": "RandomName19",
+      "category": "black",
+      "image": "src/images/image-product-4-",
+      "price": 100,
+      "inStock": false,
+      "id": 23
+    }
+  ]
+}
